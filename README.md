@@ -1,5 +1,5 @@
 # SMSspamdetectionexample
-I'm currently in the process of learning Scikit-Learn, I'm documenting what I've learned using online resources and websites that teach these concepts. To start of learning Scikit-Learn I am taking a project based approach of learning by doing. I'm using the GitHub repo build-your-own-x by codecrafters-io.
+I'm currently in the process of learning Scikit-Learn, I'm documenting what I've learned using online resources and websites that teach these concepts. To start of learning Scikit-Learn I am taking a project based approach of learning by doing. I'm using the GitHub repo build-your-own-x by codecrafters-io as they have a lot of examples which can be used as a reference to learn skills.
 
 ## Resources
 
